@@ -1,1 +1,8 @@
-@import "{{ site.theme }}";
+---
+---
+
+// start content
+.container {
+  max-width: 1200px;
+  margin: 0 auto
+}

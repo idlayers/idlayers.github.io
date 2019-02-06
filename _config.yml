@@ -1,2 +1,8 @@
 theme: jekyll-theme-slate
+<<<<<<< HEAD
 permalink: /:about.html
+=======
+permalink: about.html
+sass:
+    style: compressed
+>>>>>>> 4b2f378cf2ed1079a1f207ed0d7439f405718ead

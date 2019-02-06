@@ -4,7 +4,6 @@ about: Description.
 title: ''
 labels: ''
 assignees: ''
-permalink: about.html
 ---
 
 Edit content

@@ -1,12 +1,29 @@
 ---
+title: Home
+layout: default
 name: default layouts template
-about: Description.
-title: ''
+about: Home Page Description.
 labels: ''
 assignees: ''
 
 ---
-
-Edit content </br>
-
-Use the editor to add content to your site.
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="../css/style.css">
+  </head>
+  <body>
+    <div class="container">
+    <nav>
+      <a href="/">Home</a>
+      <a href="/about">About</a>
+    </nav>
+    <h1>{{ page.title }}</h1>
+      {{ content }}
+    <footer>
+      &copy; to me
+    </footer>
+  </body>
+</html>
