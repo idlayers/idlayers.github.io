@@ -7,4 +7,6 @@ assignees: ''
 
 ---
 
+Edit content
 
+Use the editor to add content to your site.
