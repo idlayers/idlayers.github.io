@@ -15,14 +15,21 @@ assignees: ''
     <link rel="stylesheet" href="/assets/css/style.scss">
   </head>
   <body>
+    <div class="container">
     <nav>
       <a href="/">Home</a>
       <a href="/blog/">Blog</a>
     </nav>
     <h1>{{ page.title }}</h1>
-    <section>
+    <section class="container right-content">
+      <article>
       {{ content }}
+      </article>
     </section>
+    <aside class="left-aside">
+      <h4>Epcot Center</h4>
+      <p>The Epcot Center is a theme park in Disney World, Florida.</p>
+    </aside>
     <footer>
       &copy; to me
     </footer>
