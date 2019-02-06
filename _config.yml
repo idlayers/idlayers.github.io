@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 permalink: about.html
-scss:
+sass:
     style: compressed
