@@ -1,5 +1,14 @@
 theme: jekyll-theme-slate
 =======
+# site.url, site.title
+title: 'idlayers github pages'
+
+path: /idlayers.github.io
+url:  'https://idlayers.github.io/'
+
+########
+# more settings
+
 permalink: about.html
 sass:
   style: compact # possible values: nested expanded compact compressed
