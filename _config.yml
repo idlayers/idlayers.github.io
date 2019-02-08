@@ -4,7 +4,7 @@ theme: jekyll-theme-slate
 title: 'idlayers github pages'
 
 path: /idlayers.github.io
-url:  'https://idlayers.github.io/'
+url:  'https://idlayers.github.io'
 
 ########
 # more settings
