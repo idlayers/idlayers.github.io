@@ -1,6 +1,6 @@
-theme: jekyll-theme-slate
-=======
 # site.url, site.title
+
+theme: jekyll-theme-slate
 title: 'idlayers github pages'
 
 path: /idlayers.github.io
